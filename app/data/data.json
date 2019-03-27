@@ -1,0 +1,24 @@
+{
+  "speakers": [{
+    "title" : "Leaders eat last",
+    "name": "Simon Sinek",
+    "shortname" : "Simon_Sinek",
+    "summary": "EveryFascinated by the leaders who make impact in the world, companies and politicians with the capacity to inspire, Simon Sinek has discovered some remarkable patterns in how they think, act and communicate. He wrote Start With Why: How Great Leaders Inspire Everyone to Take Action to explore his idea of the Golden Circle, what he calls 'a naturally occurring pattern, grounded in the biology of human decision making, that explains why we are inspired by some people, leaders, messages and organizations over others.",
+    "description": "<p>Fascinated by the leaders who make impact in the world, companies and politicians with the capacity to inspire, Simon Sinek has discovered some remarkable patterns in how they think, act and communicate. He wrote Start With Why: How Great Leaders Inspire Everyone to Take Action to explore his idea of the Golden Circle, what he calls 'a naturally occurring pattern, grounded in the biology of human decision making, that explains why we are inspired by some people, leaders, messages and organizations over others.' His newest work explores 'circles of safety,' exploring how to enhance feelings of trust and confidence in making bold decisions. It's the subject of his latest book, Leaders Eat Last.</p><p>An ethnographer by training, Sinek is an adjunct of the RAND Corporation. He writes and comments regularly for major publications and teaches graduate-level strategic communications at Columbia University.</p>",
+    "artwork" : ["Simon_Sinek_01_tn.jpg" , "Simon_Sinek_02_tn.jpg" , "Simon_Sinek_03_tn.jpg" , "Simon_Sinek_04_tn.jpg" , "Simon_Sinek_05_tn.jpg" , "Simon_Sinek_06_tn.jpg" , "Simon_Sinek_07_tn.jpg"]
+  },{
+    "title" : "Lessons in life",
+    "name": "Kate Adams",
+    "shortname" : "Kate_Adams",
+    "summary": "Kate Adams is an advocate of iteration -- testing, learning and refining at each step, both professionally and personally. She spends her days dissecting digital communications to find a better way to tell brand stories and connect with customers. Why you should listen",
+    "description": "<p>Kate Adams is an advocate of iteration -- testing, learning and refining at each step, both professionally and personally.</p><p>Starting in television news and moving to event production, daytime drama and digital marketing, storytelling has always been the common thread. Each job taught her more about the creation and cultivation of story and brand -- and how we use that story arc to build our own journeys.</p><p>After graduating from the University of North Carolina at Chapel Hill with a BA in journalism and mass communication, she was the assistant casting director at the Emmy-winning soap opera 'As the World Turns' for eight years. She joined the UPS digital communications team in 2011 and is now part of the analytics team for BAMTech, a video-streaming company.</p>",
+    "artwork" : ["Kate_Adams_01_tn.jpg","Kate_Adams_02_tn.jpg","Kate_Adams_03_tn.jpg","Kate_Adams_04_tn.jpg","Kate_Adams_05_tn.jpg","Kate_Adams_06_tn.jpg"]
+  },{
+    "title" : "Era of orphanage",
+    "name": "Tara Winkler",
+    "shortname" : "Tara_Winkler",
+    "summary" : "Winkler is the co-founder of Born to Belong Foundation, which provides a unified solution to the global orphanage crisis. Born to Belong Foundation runs innovative and ground-breaking programs in Cambodia, India, Nepal and Uganda to strengthen vulnerable families, reunite institutionalized children with their families, and provide kinship care and foster families for children in need of alternative care.",
+    "description": "<p>Tara Winkler is the co-founder and managing director of the Cambodian Children's Trust (CCT), established with Jedtha Pon in 2007 to rescue fourteen children from a corrupt and abusive orphanage.</p><p>Winkler has led CCT through a number of significant organizational changes, including the closure of the initial CCT orphanage in favor of a family-based care model of programs and services.</p><p>Winkler is the co-founder of Born to Belong Foundation, which provides a unified solution to the global orphanage crisis. Born to Belong Foundation runs innovative and ground-breaking programs in Cambodia, India, Nepal and Uganda to strengthen vulnerable families, reunite institutionalized children with their families, and provide kinship care and foster families for children in need of alternative care.</p><p>Winkler has been featured twice on ABC's 'Australian Story' and once on '60 Minutes Australia.' Her book How (Not) to Start an Orphanage, published by Allen & Unwin in April 2016, is currently being turned into a feature film.</p>",
+    "artwork": ["Tara_Winkler_01_tn.jpg", "Tara_Winkler_02_tn.jpg", "Tara_Winkler_03_tn.jpg", "Tara_Winkler_04_tn.jpg"]
+  }]
+}
